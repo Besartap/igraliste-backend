@@ -1,0 +1,24 @@
+{
+  "name": "igraliste-backend",
+  "version": "1.0.0",
+  "description": "igralistebackend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Besartap/igraliste-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Besartap/igraliste-backend/issues"
+  },
+  "homepage": "https://github.com/Besartap/igraliste-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "nodemon": "^3.0.2"
+  }
+}
